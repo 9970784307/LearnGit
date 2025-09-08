@@ -15,6 +15,6 @@ public class Sum{
 
       //displaying output directly of two numbers
 
-      System.out.println(a+b);
+      System.out.println("The sum of these two numbers are: " + a+b);
    }
 }
